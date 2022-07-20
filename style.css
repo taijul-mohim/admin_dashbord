@@ -1,0 +1,18 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #eee ;
+    
+}
+.sidebar{
+    height: 100vh;
+    background:url(img/back.jfif);
+    background-color: rgba(0,0,0,.7),rgba(0,0,0,.9);
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    box-shadow: cover;
+    box-shadow: 5px 7px 25px #999;
+} 
+.bottom-border{
+    border-bottom: 1px groove #eee;
+}
